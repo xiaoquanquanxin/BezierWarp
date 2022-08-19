@@ -1,0 +1,16 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2022-08-19T13:13:17</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2019.2.3.0.0</property>
+    <property name="modified">2022-08-19T19:59:40</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="JS.PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="68c65b" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
