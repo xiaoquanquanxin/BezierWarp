@@ -18,8 +18,20 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="xiaoquanquanxin" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/masterdxy/check_v4_admin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitee.com" />
+          <option name="userName" value="quanxinquanxin" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/masterdxy/check_v4_miniapp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects/demo" />
+    <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects/foreignContract" />
   </component>
 </application>
