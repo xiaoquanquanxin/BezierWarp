@@ -20,5 +20,6 @@
     <mask>*.cjs</mask>
     <mask>*.js</mask>
     <mask>*.tsx</mask>
+    <mask>*.json</mask>
   </component>
 </application>
