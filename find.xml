@@ -11,7 +11,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.tsx" />
+    <option name="FILE_MASK" value="*.jsx" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.ng</mask>
@@ -24,8 +24,8 @@
     <mask>*.cjs</mask>
     <mask>*.js</mask>
     <mask>*.json</mask>
-    <mask>*.jsx</mask>
     <mask>*.ts</mask>
     <mask>*.tsx</mask>
+    <mask>*.jsx</mask>
   </component>
 </application>
