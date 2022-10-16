@@ -9,6 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tsx" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.ng</mask>
@@ -20,9 +21,9 @@
     <mask>*.ats</mask>
     <mask>*.cjs</mask>
     <mask>*.ts</mask>
-    <mask>*.tsx</mask>
     <mask>*.js</mask>
     <mask>*.json</mask>
     <mask>*.jsx</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
