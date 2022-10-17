@@ -2,5 +2,7 @@
   <component name="IntentionManagerSettings">
     <ignoreAction name="JavaScript/Introduce local variable" />
     <ignoreAction name="XML/Remove attribute" />
+    <ignoreAction name="XML/Expand empty tag" />
+    <ignoreAction name="XML/Rearrange tag attributes" />
   </component>
 </application>
