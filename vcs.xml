@@ -34,9 +34,13 @@
           <option name="url" value="https://gitee.com/hn76351506/uni-app-ts-cli.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/xiaoquanquanxin/vue-flow-demo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects/myproject" />
+    <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects/demo" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
