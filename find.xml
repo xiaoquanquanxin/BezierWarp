@@ -17,11 +17,11 @@
     <mask>*.html</mask>
     <mask>*.ats</mask>
     <mask>*.cjs</mask>
-    <mask>*.json</mask>
     <mask>*.jsx</mask>
     <mask>*.ts</mask>
     <mask>*.vue</mask>
     <mask>*.tsx</mask>
     <mask>*.js</mask>
+    <mask>*.json</mask>
   </component>
 </application>
