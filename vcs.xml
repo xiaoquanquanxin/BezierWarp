@@ -50,9 +50,13 @@
           <option name="url" value="https://github.com/xiaoquanquanxin/wechat-applet-gradient-dynamic-surround.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.vaiotsmart.com/wuxi-smart-community-project/iot-web-front-end-application-group/gw-weaiove-common-web-platform.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects/外包" />
+    <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects/工作/aabu" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
