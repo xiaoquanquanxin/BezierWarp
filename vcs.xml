@@ -68,7 +68,7 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects/工作" />
+    <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects/工作/视觉动力" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
