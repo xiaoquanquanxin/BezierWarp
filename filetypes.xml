@@ -5,6 +5,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="commit-msg" type="PLAIN_TEXT" />
       <mapping ext="wasm" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
